@@ -35,3 +35,5 @@ int main(){
     return 0;
 
 }
+
+//Neste exercício, ficou mais claro o que é o typedef, utilizamos ele aqui duas vezes para dar apelidos a struct.
