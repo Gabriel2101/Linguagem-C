@@ -24,3 +24,5 @@ int main()
 
     return 0;
 }
+
+//este exercicio serviu para calcular o salário total de um vendedor de uma loja, ajudou a observar melhor qual tipo de váriável é melhor para a situação.
